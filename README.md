@@ -1,2 +1,1 @@
-# CSDC105
-# Repo for CSDC PROJECTS AND OUTPUTS
+# Trends in Application Development
