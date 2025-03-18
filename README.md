@@ -3,3 +3,4 @@ Welcome to my CSDC105 - Trends in Application Development repo! This is reposito
 
 ## 📁 What it currently contain:
 1. PrelimExam - Online Resume (HTML with minimal CSS)
+2. Django Activity - Django Framework Practice Activity
